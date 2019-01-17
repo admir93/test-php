@@ -9,7 +9,7 @@
 echo "<b>Ovo je testna php stranica. </b> \n <br>";
 echo "<b>Admir Osmanovic </b> \n <br>";
 echo "<b>Ovo je testna web stranica </b> \n <br>";
-echo "HH Inc. \n \n <br>";
+echo "HH Inc. \n <br> <br>";
 
 echo "<b>Instance ID: </b> ";
 $instance_id = file_get_contents("http://169.254.169.254/latest/meta-data/instance-id");
