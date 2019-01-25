@@ -23,11 +23,9 @@ echo $instance_private_ip, "\n <br>";
 
 ?> 
 
-  <div align=center>
-    <h2>Watchdog</h2>
+<h2>Batman</h2>
     
-    <img src="doge.jpg" >
-   </div>
+<img src="https://www.photosforclass.com/download/pixabay-1407484?webUrl=https%3A%2F%2Fpixabay.com%2Fget%2Fe831b1082cfc053ed1584d05fb1d4e97e07ee3d21cac104491f8c578a5eab7b0_960.jpg&user=GooKingSword" >
   
 </body>
 </html>
