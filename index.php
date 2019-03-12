@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>PHP Jenkins test page</h1>
+<h1>PHP App test page</h1>
 
 <?php
 echo "<b>Ovo je testna php stranica. </b> \n <br>";
