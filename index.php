@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>PHP App test page 13.3.2019. 15h</h1>
+<h1>PHP App test page 13.3.2019.</h1>
 
 <?php
 echo "<b>Ovo je testna php stranica. </b> \n <br>";
