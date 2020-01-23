@@ -6,7 +6,7 @@
 <h1>PHP App test page 1.4.2019.</h1>
 
 <?php
-echo "<b>Ovo je testna php stranica. </b> \n <br>";
+echo "<b>Ovo je test test php stranica. </b> \n <br>";
 echo "<b>Admir Osmanovic </b> \n <br>";
 echo "<b>Ovo je testna web stranica </b> \n <br>";
 echo "HH Inc. \n <br> <br>";
